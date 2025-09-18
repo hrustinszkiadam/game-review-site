@@ -1,8 +1,16 @@
 import * as fs from 'node:fs';
 import type { GameRating, RatingsData } from './types';
 
-const inputFilePath = 'input.csv' as const;
+let inputFilePath = 'input.csv';
 const outputFilePath = 'public/ratings.json' as const;
+
+//get params from command line (npm run convert yourfile.csv)
+if (process.argv.length >= 3) {
+	const arg = process.argv[2];
+	if (arg.endsWith('.csv')) {
+		inputFilePath = arg;
+	}
+}
 
 const parseGameRatings = (): GameRating[] => {
 	const data = fs.readFileSync(inputFilePath, 'utf-8');
