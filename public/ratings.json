@@ -1,0 +1,69 @@
+{
+  "averageRating": 4.325,
+  "games": [
+    {
+      "name": "Külső Vadak",
+      "rating": 5
+    },
+    {
+      "name": "Alsómese",
+      "rating": 4.9
+    },
+    {
+      "name": "Szellem Trükk: Fantom Detektív",
+      "rating": 4.8
+    },
+    {
+      "name": "Üreges Lovag",
+      "rating": 4.8
+    },
+    {
+      "name": "Férgek Világvége",
+      "rating": 4.55
+    },
+    {
+      "name": "Üreges Lovag: Selyemdal",
+      "rating": 4.5
+    },
+    {
+      "name": "Utasíts & Hódíts: Jurij Bosszúja",
+      "rating": 4.4
+    },
+    {
+      "name": "Kupac Lélek",
+      "rating": 4.3
+    },
+    {
+      "name": "Vámpír Túlélők",
+      "rating": 4.3
+    },
+    {
+      "name": "A Bárány Szektája",
+      "rating": 4.2
+    },
+    {
+      "name": "Növények kontra Zombik",
+      "rating": 4.2
+    },
+    {
+      "name": "Baba vagy Te",
+      "rating": 4.1
+    },
+    {
+      "name": "Kóbor",
+      "rating": 4.1
+    },
+    {
+      "name": "Birodalmak Kora II: Végleges Kiadás",
+      "rating": 3.9
+    },
+    {
+      "name": "Felezési Idő 2",
+      "rating": 3.75
+    },
+    {
+      "name": "Pohárfej",
+      "rating": 3.4
+    }
+  ]
+}
