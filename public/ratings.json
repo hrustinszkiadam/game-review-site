@@ -3,67 +3,83 @@
   "games": [
     {
       "name": "Külső Vadak",
-      "rating": 5
+      "rating": 5,
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Outer_Wilds"
     },
     {
       "name": "Alsómese",
-      "rating": 4.9
+      "rating": 4.9,
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Undertale"
     },
     {
       "name": "Szellem Trükk: Fantom Detektív",
-      "rating": 4.8
+      "rating": 4.8,
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ghost_Trick:_Phantom_Detective"
     },
     {
       "name": "Üreges Lovag",
-      "rating": 4.8
+      "rating": 4.8,
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hollow_Knight"
     },
     {
       "name": "Férgek Világvége",
-      "rating": 4.55
+      "rating": 4.55,
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Worms_Armageddon"
     },
     {
       "name": "Üreges Lovag: Selyemdal",
-      "rating": 4.5
+      "rating": 4.5,
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong"
     },
     {
       "name": "Utasíts & Hódíts: Jurij Bosszúja",
-      "rating": 4.4
+      "rating": 4.4,
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Command_%26_Conquer:_Yuri%27s_Revenge"
     },
     {
       "name": "Kupac Lélek",
-      "rating": 4.3
+      "rating": 4.3,
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Katamari_Damacy"
     },
     {
       "name": "Vámpír Túlélők",
-      "rating": 4.3
+      "rating": 4.3,
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vampire_Survivors"
     },
     {
       "name": "A Bárány Szektája",
-      "rating": 4.2
+      "rating": 4.2,
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cult_of_the_Lamb"
     },
     {
       "name": "Növények kontra Zombik",
-      "rating": 4.2
+      "rating": 4.2,
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Plants_vs._Zombies"
     },
     {
       "name": "Baba vagy Te",
-      "rating": 4.1
+      "rating": 4.1,
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Baba_Is_You"
     },
     {
       "name": "Kóbor",
-      "rating": 4.1
+      "rating": 4.1,
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stray_(video_game)"
     },
     {
       "name": "Birodalmak Kora II: Végleges Kiadás",
-      "rating": 3.9
+      "rating": 3.9,
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Age_of_Empires_II:_Definitive_Edition"
     },
     {
       "name": "Felezési Idő 2",
-      "rating": 3.75
+      "rating": 3.75,
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Half-Life_2"
     },
     {
       "name": "Pohárfej",
-      "rating": 3.4
+      "rating": 3.4,
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cuphead"
     }
   ]
 }

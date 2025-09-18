@@ -20,6 +20,7 @@ const createCard = (game: GameRating): HTMLDivElement => {
 	} else if (game.rating < 4.0) {
 		cardBody.style.backgroundColor = 'lemonchiffon';
 	}
+	card.querySelector('.card-link')!.setAttribute('href', game.wikipediaUrl);
 
 	return card;
 };

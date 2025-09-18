@@ -10,11 +10,15 @@ const parseGameRatings = (): GameRating[] => {
 	const ratings: GameRating[] = [];
 	for (const line of lines) {
 		if (line.trim() === '') continue;
-		const [name, ratingStr] = line.split(',');
+		const [name, ratingStr, wikipediaUrl] = line.split(',');
 
 		const rating = parseFloat(ratingStr);
 		if (isNaN(rating)) continue;
-		ratings.push({ name: name.trim(), rating });
+		ratings.push({
+			name: name.trim(),
+			rating,
+			wikipediaUrl: wikipediaUrl.trim(),
+		});
 	}
 
 	return ratings;
